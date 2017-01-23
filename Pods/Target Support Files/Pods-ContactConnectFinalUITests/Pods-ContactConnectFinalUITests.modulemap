@@ -1,0 +1,6 @@
+framework module Pods_ContactConnectFinalUITests {
+  umbrella header "Pods-ContactConnectFinalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
