@@ -1,11 +1,10 @@
 //
-//  ViewAppDelegate.m
-//  LibSoundCloud
-
-//  Created by Stofkat.org on 23-05-14.
-//  Copyright (c) 2014 Stofkat. All rights reserved.
+//  AppDelegate.m
+//  ContactConnectFinal
 //
-
+//  Created by Akhil Yeleswar on 7/6/16.
+//  Copyright © 2016 Akhil Yeleswar. All rights reserved.
+//
 #import "AppDelegate.h"
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 #import <Fabric/Fabric.h>
