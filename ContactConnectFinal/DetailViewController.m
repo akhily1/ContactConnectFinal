@@ -1,5 +1,4 @@
-//
-//  CategoryChosen.m
+
 //  ContactConnectFinal
 //
 //  Created by Akhil Yeleswar on 7/6/16.
